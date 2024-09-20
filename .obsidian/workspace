@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "270746a973772750",
+    "type": "split",
+    "children": [
+      {
+        "id": "df42fe5f6f16a407",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "面试准备/Alorgithm.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f10ab04f89ca49f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b26c2d6fe750b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848ee7d6abd2fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b35af36e7f55630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220
+  },
+  "right": {
+    "id": "52cf57e5c9e82a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0afb6c7b6d7071da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4ea5f05040a321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面试准备/Alorgithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2139c48f06bfde00",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1df5a037772f78d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df42fe5f6f16a407",
+  "lastOpenFiles": [
+    "面试准备/C++.md",
+    "面试准备/Alorgithm.md",
+    "面试准备/Linux.md",
+    "未命名.md",
+    "面试准备/Git.md",
+    "头像.jpg",
+    "2022-W37.md",
+    "面试准备/MySQL.md",
+    "客套话.md",
+    "互联网工程师_冯则涛.pdf"
+  ]
+}

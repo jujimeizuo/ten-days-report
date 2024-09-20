@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "ec1e431760fda7dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3243ed22ec38eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a875a4fbc9b8e175",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e90b7b3164b1b737",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d2d56eff7ea61844",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "288a98f1de01068d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4636a8e358e6948d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "36df99dd541b879e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3af5d81c3627549b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "75af37c556960353",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "a875a4fbc9b8e175",
+  "lastOpenFiles": [
+    "现代C++32讲.pdf",
+    "images/Pasted image 20220217151853.png",
+    "images/Pasted image 20220316152907.png",
+    "C++面试资料.pdf",
+    "images/Pasted image 20220110204843.png",
+    "images/08E254BB05293C0DC0484BBDFC9343ED.jpg"
+  ]
+}
