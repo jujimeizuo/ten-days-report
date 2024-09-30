@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5de282e634b737be",
+        "id": "9cbef7300ba06411",
         "type": "tabs",
         "children": [
           {
-            "id": "558e51a649235c6a",
+            "id": "e5c7cb9b5fc741bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024/2024-9-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024/2024-9-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024/2024-9-30.md"
+              }
             }
           },
           {
@@ -156,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "2024/2024-9-30.md"
+              }
             }
           }
         ],
@@ -179,12 +189,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "558e51a649235c6a",
+  "active": "e5c7cb9b5fc741bf",
   "lastOpenFiles": [
-    "ThesisWriting/README.md",
     "2024/2024-9-20.md",
-    "2024/2024-8-30.md",
+    "2024/2024-9-30.md",
     "2024/2024-9-10.md",
+    "2024/2024-8-30.md",
+    "README.md",
+    "ThesisWriting/README.md",
     "Learn/README.md",
     "Learn.zip",
     "Learn/README.pdf",
@@ -214,8 +226,6 @@
     "ImageEditor/READMEv1.pdf",
     "2024/2024-7-30.md",
     "2024/2024-8-10.md",
-    "2024/2024-8-20.md",
-    "2024/2024-7-10.md",
     "UDiskRecover/images/3.png",
     "UDiskRecover/images/2.png",
     "UDiskRecover/images/1.png",
